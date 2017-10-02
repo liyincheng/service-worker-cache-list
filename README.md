@@ -11,7 +11,7 @@
 
 ```shell
 npm install -g service-worker-cache-list
-service-worker-cache-list --url=https://github.com
+sw-cache --url=https://github.com
 ```
 
 --url 后面带上想要cached的网页地址
