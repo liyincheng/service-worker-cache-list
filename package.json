@@ -1,5 +1,5 @@
 {
-  "name": "service worker generate cache list",
+  "name": "service-worker-generate-cache-list",
   "version": "1.0.0",
   "description": "A tool to generage service worker cahce list include img/css/js resources by the given url",
   "repository": "https://github.com/liyincheng/service-worker-cache-list",
