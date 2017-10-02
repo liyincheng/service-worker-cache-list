@@ -1,0 +1,19 @@
+{
+  "name": "service worker generate cache list",
+  "version": "1.0.0",
+  "description": "A tool to generage service worker cahce list include img/css/js resources by the given url",
+  "repository": "https://github.com/liyincheng/service-worker-cache-list",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {"sw-cache": "index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-fetch-npm": "^2.0.2",
+    "optimist": "^0.6.1"
+  }
+}
