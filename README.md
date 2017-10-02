@@ -1,5 +1,4 @@
 # service-worker-cache-list
-A tool to generage service worker cahce list include img/css/js resources by the given url
 
 一个用来生成manifest文件的工具，根据url抓取的html里的img/css/js资源放到manifest文件的cache里面
 
